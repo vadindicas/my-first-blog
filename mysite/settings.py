@@ -25,6 +25,7 @@ SECRET_KEY = 'h_1h_*ahu0vsov#c&rikh6^7o&qv4^o-knsc1-i&_us*p#-#!5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+
 ALLOWED_HOSTS = ['127.0.0.1','vadindicas.pythonanywhere.com']
 
 
